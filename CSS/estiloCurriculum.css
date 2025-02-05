@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: blanchedalmond;
+}
+.contenedor{
+    width: 95%;
+    margin: 5px auto;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contenedor th, td, header{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.contenedor h2{
+    color: rgb(59, 33, 137);
+    text-align: center;
+}
+
+
+
+
